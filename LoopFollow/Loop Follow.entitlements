@@ -10,7 +10,7 @@
 	<true/>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.com.$(unique_id).LoopFollow$(app_suffix)</string>
+		<string>group.com.brentcarithers.5R4248V3J9.LoopFollow</string>
 	</array>
 	<key>com.apple.security.device.bluetooth</key>
 	<true/>
